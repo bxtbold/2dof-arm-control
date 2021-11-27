@@ -17,8 +17,7 @@ https://user-images.githubusercontent.com/55473193/143670874-74005fee-3906-432c-
 
 
 Conclusion:
-First of all, I did not properly secured the pen at the end effector that resulted in a not straight or smooth lines.
-Also, it was not possible to control at high precision because the board and the motors could not computationally handle small steps, which is necessary for high precision. Lastly, the arm beam is deflected when assembled. 
+First of all, I did not properly secured the pen at the end effector. It was not possible to control at high precision because the board and the motors could not computationally handle small steps, which is necessary for high precision and the arm beam is deflected when assembled. For these reasons, it was not possible to draw a straight and smooth line.
 
 Tip:
 Test on the plain surface;)
